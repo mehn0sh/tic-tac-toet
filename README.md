@@ -1,7 +1,5 @@
 #Tic tac toe Game
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
+this game develop with the help of javascript and react js and react router dom :)
 
 <img src="https://i.ibb.co/y47Mwmr/Cover.png" alt="Cover" border="0">
