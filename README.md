@@ -4,4 +4,4 @@ This template provides a minimal setup to get React working in Vite with HMR and
 
 Currently, two official plugins are available:
 
-<img src="https://ibb.co/y47Mwmr"/>
+<a href="https://ibb.co/y47Mwmr"><img src="https://i.ibb.co/y47Mwmr/Cover.png" alt="Cover" border="0"></a>
